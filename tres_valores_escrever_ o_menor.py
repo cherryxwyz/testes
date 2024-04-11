@@ -1,0 +1,5 @@
+n1 = float(input("digite um número: "))
+n2 = float(input("digite outro: "))
+n3 = float(input("digite outro: "))
+menor = min(n1, n2, n3)
+print("o menor valor é", menor)

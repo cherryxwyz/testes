@@ -1,0 +1,5 @@
+n1 = float(input("digite um número: "))
+n2 = float(input("digite outro: "))
+n3 = float(input("digite outro: "))
+maior = max(n1, n2, n3)
+print("o maior valor é", maior)
